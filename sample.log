@@ -1,0 +1,5 @@
+[10:00:01] Packet sent from Node A to Node B. RTT=18ms
+[10:00:02] Packet received at Node B. RTT=20ms
+[10:00:03] Error: Packet dropped. Code=504
+[10:00:04] Packet sent from Node A to Node B. RTT=22ms
+[10:00:05] Warning: Latency spike. RTT=85ms
